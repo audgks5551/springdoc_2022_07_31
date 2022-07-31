@@ -3,6 +3,7 @@
 ## TODO 
  1. springdoc 라이브러리 추가 (완료)
  2. swagger 화면 나오게 하기 (완료)
+ 3. 간단한 게시글 REST API 만들기 (완료) 
 
 ## 라이브러리 추가
 ```html
